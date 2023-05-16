@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Geofence</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="stanford_university">Stanford University</string>
+</resources>
